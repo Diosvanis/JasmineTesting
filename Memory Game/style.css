@@ -1,0 +1,14 @@
+
+
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 160px;
+  margin: 17px ;
+  display: inline-block;
+}
+
+h1 {
+  text-align:center;
+}
+ 
